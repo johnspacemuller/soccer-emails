@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://johnspacemuller.github.io/soccer-emails/sitemap.xml
